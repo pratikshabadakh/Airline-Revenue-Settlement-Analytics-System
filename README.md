@@ -1,6 +1,4 @@
-# Airline-Revenue-Settlement-Analytics-System
-
-# ✈️ Airline Revenue & Settlement Analytics System
+# ✈️ Airline-Revenue-Settlement-Analytics-System
 
 ## Project Overview
 
